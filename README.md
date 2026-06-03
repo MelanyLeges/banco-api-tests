@@ -72,12 +72,6 @@ O projeto utiliza variáveis de ambiente através da biblioteca dotenv.
 
 Crie um arquivo chamado `.env` na raiz do projeto com o seguinte conteúdo:
 
-```env
-BASE_URL=http://localhost:3000
-```
-
-## Exemplo
-
 Caso a API esteja rodando localmente:
 
 ```env
